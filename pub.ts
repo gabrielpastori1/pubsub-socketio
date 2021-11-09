@@ -5,7 +5,7 @@ export default class Pub {
   subscribers: string[] = [];
   publish(){
     for ( const subscriber of this.subscribers ) {
-      subscriber...
+//      subscriber...
     }
   }
   accept(subscriber: string) {
