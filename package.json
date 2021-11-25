@@ -6,8 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "ts-node index.ts",
-    "server": "ts-node server.ts",
-    "client": "ts-node client.ts",
+    "server": "ts-node server.js",
+    "client": "ts-node client.js",
     "pub": "ts-node pub.ts",
     "build": "tsc --project tsconfig.json"
   },
